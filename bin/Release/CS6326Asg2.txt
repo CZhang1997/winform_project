@@ -1,0 +1,4 @@
+Churong, ,Zhang,4021 Sundown Dr,,Plano,TX,75023,M,569-888-1821,churongzhang@gmail.com,True,2/12/2020,18:51:14,18:52:09,3
+Alice, ,Hu,8989 Sundown Dr,,Plano,TX,74023,F,888-213-6663,alicehhu@gmail.com,True,2/12/2020,18:52:18,18:54:02,26
+Jeff, ,Zhang,8090 boba ave,,Plano,TX,75023,M,421-312-5655,keffasd@gmail.com,True,2/12/2020,18:54:57,18:55:33,5
+Jenny, ,Smit,asdsada dr,,Richardson,TX,75023,F,889-989-8080,sdasdqe@gmail.com,True,2/12/2020,18:56:16,18:57:06,24

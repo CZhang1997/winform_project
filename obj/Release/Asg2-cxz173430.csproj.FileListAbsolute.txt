@@ -1,0 +1,9 @@
+C:\Users\churo\source\repos\Asg2-cxz173430\bin\Release\Asg2-cxz173430.exe.config
+C:\Users\churo\source\repos\Asg2-cxz173430\bin\Release\Asg2-cxz173430.exe
+C:\Users\churo\source\repos\Asg2-cxz173430\bin\Release\Asg2-cxz173430.pdb
+C:\Users\churo\source\repos\Asg2-cxz173430\obj\Release\Asg2-cxz173430.csprojAssemblyReference.cache
+C:\Users\churo\source\repos\Asg2-cxz173430\obj\Release\Asg2_cxz173430.RebateForm.resources
+C:\Users\churo\source\repos\Asg2-cxz173430\obj\Release\Asg2_cxz173430.Properties.Resources.resources
+C:\Users\churo\source\repos\Asg2-cxz173430\obj\Release\Asg2-cxz173430.csproj.GenerateResource.cache
+C:\Users\churo\source\repos\Asg2-cxz173430\obj\Release\Asg2-cxz173430.exe
+C:\Users\churo\source\repos\Asg2-cxz173430\obj\Release\Asg2-cxz173430.pdb
